@@ -1,0 +1,1 @@
+JR=C:\Users\lucia\RiderProjects\sonarqube_example\API\API.csprojòCSharp13

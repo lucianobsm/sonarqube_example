@@ -1,0 +1,6 @@
+projectKey=sonarqube_example
+serverUrl=http://localhost:9000
+serverVersion=26.6.0.123539
+dashboardUrl=http://localhost:9000/dashboard?id=sonarqube_example
+ceTaskId=ddfbb3f1-03f3-4c9a-abe6-7b3a3da26c94
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ddfbb3f1-03f3-4c9a-abe6-7b3a3da26c94

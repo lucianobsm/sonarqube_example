@@ -1,0 +1,136 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.2.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1781928401000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "sonarqube_example"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\docker-compose.yaml,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\sonar.sh"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "CCDE44DE-BE02-4362-91AB-526617C1A2DA,BB52ACDD-FDE9-4009-A0E7-60118F5134BD"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.projectKey",
+      "value": "sonarqube_example:CCDE44DE-BE02-4362-91AB-526617C1A2DA"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.projectName",
+      "value": "API.Tests"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.projectBaseDir",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API.Tests"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.working.directory",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.tests",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API.Tests\\UnitTest1.cs,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API.Tests\\obj\\API.Tests.csproj.nuget.dgspec.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API.Tests\\obj\\project.assets.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API.Tests\\obj\\project.packagespec.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API.Tests\\bin\\Debug\\net9.0\\API.Tests.deps.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API.Tests\\bin\\Debug\\net9.0\\API.Tests.runtimeconfig.json"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "CCDE44DE-BE02-4362-91AB-526617C1A2DA.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.projectKey",
+      "value": "sonarqube_example:BB52ACDD-FDE9-4009-A0E7-60118F5134BD"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.projectName",
+      "value": "API"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.projectBaseDir",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.working.directory",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.sources",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\appsettings.Development.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\appsettings.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\API.csproj.nuget.dgspec.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\project.assets.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\project.packagespec.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\Properties\\launchSettings.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\bin\\Debug\\net9.0\\API.deps.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\bin\\Debug\\net9.0\\API.runtimeconfig.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\bin\\Debug\\net9.0\\API.staticwebassets.endpoints.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\bin\\Debug\\net9.0\\appsettings.Development.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\bin\\Debug\\net9.0\\appsettings.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\rjsmrazor.dswa.cache.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\rpswa.dswa.cache.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\staticwebassets.build.endpoints.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\staticwebassets.build.json,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\Program.cs,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\API.GlobalUsings.g.cs,\"C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs\",C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\API.AssemblyInfo.cs,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\obj\\Debug\\net9.0\\API.MvcApplicationPartsAssemblyInfo.cs,C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\API\\API.http"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "BB52ACDD-FDE9-4009-A0E7-60118F5134BD.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\lucia\\RiderProjects\\sonarqube_example\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

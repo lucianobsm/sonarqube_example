@@ -1,0 +1,1 @@
+C:\Users\lucia\RiderProjects\sonarqube_example\.sonarqube\out\0

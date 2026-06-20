@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{BB52ACDD-FDE9-4009-A0E7-60118F5134BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Tests", "API.Tests\API.Tests.csproj", "{CCDE44DE-BE02-4362-91AB-526617C1A2DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{12E5443C-B9A8-4C1A-A6A2-7470E9EE5902}"
+	ProjectSection(SolutionItems) = preProject
+		sonar.sh = sonar.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB52ACDD-FDE9-4009-A0E7-60118F5134BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB52ACDD-FDE9-4009-A0E7-60118F5134BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB52ACDD-FDE9-4009-A0E7-60118F5134BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB52ACDD-FDE9-4009-A0E7-60118F5134BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDE44DE-BE02-4362-91AB-526617C1A2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDE44DE-BE02-4362-91AB-526617C1A2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDE44DE-BE02-4362-91AB-526617C1A2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDE44DE-BE02-4362-91AB-526617C1A2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

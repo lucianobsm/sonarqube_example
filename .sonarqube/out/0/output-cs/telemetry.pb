@@ -1,0 +1,1 @@
+VRIC:\Users\lucia\RiderProjects\sonarqube_example\API.Tests\API.Tests.csprojòCSharp13
